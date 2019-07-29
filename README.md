@@ -15,17 +15,24 @@ Download the ipynb file and execute by changing the values for capacity and dema
 ### For Deterministic Linear Programming Model:
 The code solves the problem of seat allocation problem for an airline.
 number of products = 3
+
 number of resources = 2
+
 capacity constraint --> total seats on flight = 50
+
 demand constraint --> 40,30,20
 
 b - the fares (p1=200, p2=160, p3=300)
+
 c - constraints (capacity and demand)
+
 A - different combinations of flight
 
 ### For Randomized Linear Programming Model:
 Demand function is known and resource state is known.
+
 Probability with which the request for product(the seat in airplane) arrives is lbda
+
 T - time horizon
 
 
